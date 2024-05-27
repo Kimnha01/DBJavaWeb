@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/FPTUniversity/2024.Summer/PRJ301/Session2_JDBC/DBJavaWebV2/src/java/dto/Order.java</file>
+            <file>file:/D:/FPTUniversity/2024.Summer/PRJ301/Session2_JDBC/DBJavaWebV2/src/java/view/ManageOrderView.java</file>
+            <file>file:/D:/FPTUniversity/2024.Summer/PRJ301/Session2_JDBC/DBJavaWebV2/src/java/dao/AccountDAO.java</file>
+            <file>file:/D:/FPTUniversity/2024.Summer/PRJ301/Session2_JDBC/DBJavaWebV2/src/java/controllers/ManageAccountServlet.java</file>
+            <file>file:/D:/FPTUniversity/2024.Summer/PRJ301/Session2_JDBC/DBJavaWebV2/src/java/dao/OrderDAO.java</file>
+            <file>file:/D:/FPTUniversity/2024.Summer/PRJ301/Session2_JDBC/DBJavaWebV2/web/ManageOrderView.html</file>
+            <file>file:/D:/FPTUniversity/2024.Summer/PRJ301/Session2_JDBC/DBJavaWebV2/src/java/controllers/ChangeStatusServlet.java</file>
+            <file>file:/D:/FPTUniversity/2024.Summer/PRJ301/Session2_JDBC/DBJavaWebV2/src/java/view/ManageUserView.java</file>
+            <file>file:/D:/FPTUniversity/2024.Summer/PRJ301/Session2_JDBC/DBJavaWebV2/src/java/dto/OrderDetail.java</file>
+            <file>file:/D:/FPTUniversity/2024.Summer/PRJ301/Session2_JDBC/DBJavaWebV2/web/index.html</file>
+            <file>file:/D:/FPTUniversity/2024.Summer/PRJ301/Session2_JDBC/DBJavaWebV2/web/mycode.js</file>
+            <file>file:/D:/FPTUniversity/2024.Summer/PRJ301/Session2_JDBC/DBJavaWebV2/src/java/controllers/ManageOrderServlet.java</file>
+        </group>
+    </open-files>
+</project-private>

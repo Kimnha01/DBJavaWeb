@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        Select order's status
+        <form action="ManageOrderServlet" id="myform">
+            <select name="orderstatus" onchange="document.getElementById('myform').submit()">
+                <option value="0">Choose status</option>
+                <option value="1">Pending</option>
+                <option value="2">Processing</option>
+                <option value="3">Completed</option>
+                <option value="4">Cancel</option>
+            </select>
+        </form>
+    </body>
+</html>
